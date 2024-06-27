@@ -1,5 +1,7 @@
  # Here is a new update by Suprice30
 
+ # Here is another update by Suprice30
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
